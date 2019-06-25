@@ -6,4 +6,6 @@ This is second file
 =======
 
 this is the third line
+
+thisis the fourth line
 >>>>>>> a0eaa8a4b77183ea4595c7ecaa9394082f952d28
