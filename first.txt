@@ -1,4 +1,9 @@
 This is my first file
 
 This is second file
+<<<<<<< HEAD
  this is my third file
+=======
+
+this is the third line
+>>>>>>> a0eaa8a4b77183ea4595c7ecaa9394082f952d28
